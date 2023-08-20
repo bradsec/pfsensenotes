@@ -36,7 +36,7 @@ Password:           {Paste in Global API Key}
 
 **TROUBLESHOOTING**
 
-I found if you leave the Username blank it will fail and the System Log will show a message similar to below. 
+If you leave the Username blank it will fail and the `System Log` will show a message similar to below. 
 
 `/services_dyndns_edit.php: Response Data: {"success":false,"errors":[{"code":6003,"message":"Invalid request headers","error_chain":[{"code":6111,"message":"Invalid format for Authorization header"}]}],"messages":[],"result":null}`
 

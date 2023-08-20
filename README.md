@@ -13,8 +13,9 @@
 Type    Name  IPv4 address (required)                        Proxy status (can be enabled)  
 A       ddns  {any placeholder IPV4 address example 1.1.1.1} Enabled
 ```
-3. Goto `My Profile` and select `API Tokens`
-4. Copy the `Global API Key`
+3. From the Domain `Overview` page copy the `Zone ID` key (if you don't want to use email as Username in pfSense)
+4. Goto `My Profile` and select `API Tokens`
+5. Copy the `Global API Key`
 
 ***I have not tested with custom API keys, this may be a more secure option rather than using the Global API Key.***
 

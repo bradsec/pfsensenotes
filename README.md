@@ -1,0 +1,2 @@
+# pfsensenotes
+pfSense Configuration Notes

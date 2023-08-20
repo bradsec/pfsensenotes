@@ -7,13 +7,13 @@
 
 **IN CLOUDFLARE ACCOUNT**
 
-1. In CloudFlare account select Domain name then select `DNS > Records`
+1. Select Domain name then select `DNS > Records`
 2. `Add Record` (Name below can be any preferred subdomain, example is ddns)
 ```terminal
 Type    Name  IPv4 address (required)                        Proxy status (can be enabled)  
 A       ddns  {any placeholder IPV4 address example 1.1.1.1} Enabled
 ```
-3. In Cloudflare account goto `My Profile` and select `API Tokens`
+3. Goto `My Profile` and select `API Tokens`
 4. Copy the `Global API Key`
 
 ***I have not tested with custom API keys, this may be a more secure option rather than using the Global API Key.***

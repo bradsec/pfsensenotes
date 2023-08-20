@@ -28,8 +28,8 @@ Service Type:       CloudFlare
 Hostname:           ddns        yourcloudflaredomainname.com
 Cloudflare Proxy:   [TICK] Enable Proxy
 
-## IMPORTANT - Despite text - Username is required for all providers except Cloudflare (it is required pfSense 2.7.0)
-Username:           {Enter CloudFlare account management email address}
+## IMPORTANT Username or DNS Zone ID is required
+Username:           {Enter CloudFlare account management email address or DNS Zone ID}
 Password:           {Paste in Global API Key} 
 ```
 3. Click `Save` or `Save & Force Update`

@@ -16,7 +16,7 @@ A       ddns  {any placeholder IPV4 address example 1.1.1.1} Enabled
 3. In Cloudflare account goto `My Profile` and select `API Tokens`
 4. Copy the `Global API Key`
 
-- Have not tested with custom API keys, this may be a more secure option rather than using the Global API Key.
+***I have not tested with custom API keys, this may be a more secure option rather than using the Global API Key.***
 
 **IN PFSENSE**
 
